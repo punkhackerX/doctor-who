@@ -1,0 +1,128 @@
+/*OVERALL*/
+* {
+    -ms-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+     box-sizing: border-box;
+}
+
+/*NAVIGATION*/
+.navbar {
+    backgound-color: ;
+}
+
+#navigation {
+    font-size: ;
+    background-color: ;
+    font-family: ;
+    color: ;
+
+}
+
+.navbar-brand {
+    margin: ;
+}
+
+.logo {
+    margin-top: ;
+    max-width: ;
+}
+
+
+
+.navbar-nav >li >a {
+    font-family: ;
+    color: white;
+    text-align: right;
+}
+
+.form-control {
+    margin-top: ;
+}
+
+#main-nav-menu {
+    justify-content: flex-end;
+}
+
+/*CAROUSEL INNER*/
+#myCarousel {
+
+}
+
+.carousel-inner {
+
+}
+
+#carousel-images {
+    max-height: 700px;
+}
+
+/*ARTICLES*/
+#theTabs {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+}
+
+h2 {
+    font-family: ;
+}
+
+.articles {
+    font-family: ;
+    margin-top:
+    margin-left:
+    margin-right:
+    padding-left:
+    padding-right:
+    padding-top:
+    border-top: 8px
+    padding-bottom:
+    margin-bottom:
+    border-bottom: 8px
+
+}
+
+.article-text {
+    font-size: 20px;
+    font-family:
+}
+
+.photo-caption {
+    text-align: center;
+}
+.image-companions {
+    max-width: 50%;
+}
+
+
+/*FANDOM*/
+#fandom {
+    padding-bottom: ;
+    border-bottom:  ;
+    margin-left: ;
+    margin-right: ;
+}
+
+.source {
+    margin-top: 5px;
+}
+
+/*FOOTER*/
+
+
+#footer {
+    font-family: 'Josefin Sans', sans-serif;
+    margin-left: 20px;
+}
+
+.img-companions {
+
+    position: relative;
+    width: 100px;
+    height:  100px;
+
+}
+#article1 , #article2 , #article3 , #article4 , #article5 {
+
+    text-align: center;
+}
