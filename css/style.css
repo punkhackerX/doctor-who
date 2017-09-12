@@ -8,7 +8,7 @@
 
 /*NAVIGATION*/
 .navbar {
-    backgound-color: ;
+    
 }
 
 #navigation {
@@ -19,13 +19,15 @@
 
 }
 
-.navbar-brand {
-    margin: ;
+.navbar-brand img{
+    display: block;
+    height:30px;
 }
 
 .logo {
-    margin-top: ;
-    max-width: ;
+    
+    height:30px;
+    width:30px;
 }
 
 
@@ -37,11 +39,15 @@
 }
 
 .form-control {
-    margin-top: ;
+    
 }
 
 #main-nav-menu {
     justify-content: flex-end;
+}
+
+.navbar-inverse {
+
 }
 
 /*CAROUSEL INNER*/
@@ -84,7 +90,7 @@ h2 {
 
 .article-text {
     font-size: 20px;
-    font-family:
+    font-family: 'Playfair Display', serif;
 }
 
 .photo-caption {
@@ -122,7 +128,14 @@ h2 {
     height:  100px;
 
 }
-#article1 , #article2 , #article3 , #article4 , #article5 {
+#article1, #article2 , #article3 , #article4 , #article5 {
 
     text-align: center;
+}
+
+#article1{
+  
+    font-size:20px;
+    font-style:'Playfair Display', serif;
+    
 }
